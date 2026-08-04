@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/aryangarg-in/leetcode/tree/master/0058-length-of-last-word) |
 | [0409-longest-palindrome](https://github.com/aryangarg-in/leetcode/tree/master/0409-longest-palindrome) |
 ## Greedy
 |  |
