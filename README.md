@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/aryangarg-in/leetcode/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/aryangarg-in/leetcode/tree/master/0409-longest-palindrome) |
 ## String
 |  |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/aryangarg-in/leetcode/tree/master/0409-longest-palindrome) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/aryangarg-in/leetcode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/aryangarg-in/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
